@@ -825,6 +825,25 @@ li.m-search {
 	border-radius: 0;
 	-webkit-appearance: none;
 }
+.bottomBar {
+	width: auto;
+	margin: 0 auto;
+}
+#globalFooter {
+    margin: 0 0 15px;
+}
+#copyright {
+    margin: 0 0 15px;
+}
+#globalFooter {
+    width: 45%;
+    float: right;
+    text-align: right;
+    margin: 15px 0;
+}
+.bottomBar .wrapper{
+	margin-top:15px;
+}
 .m-search input[type="text"] {
 	line-height: 30px;
 	height: 30px;
